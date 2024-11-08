@@ -4,3 +4,4 @@ data.parquet
 daily_candles.json
 one_minute_candles.json
 .idea/
+lightning_logs/
